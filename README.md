@@ -1,5 +1,7 @@
 # 🚦 FSM Traffic Controller – Sensor-Based Smart Control
 
+INTERN ID:CIS441
+
 This project implements a **sensor-aware traffic light controller** using a **Finite State Machine (FSM)** in Verilog. The design dynamically reacts to real-time traffic on **4 roads (R1–R4)** and determines optimal green light allocation between **roads 1 & 3** and **roads 2 & 4** based on vehicle presence.
 
 ---
